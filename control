@@ -1,0 +1,9 @@
+Package: com.aehmlo.insanjmode
+Name: insanj mode
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Lowercases most of SpringBoard.
+Maintainer: Aehmlo Lxaitn
+Author: Aehmlo Lxaitn
+Section: Tweaks
